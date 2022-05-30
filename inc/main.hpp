@@ -8,7 +8,8 @@
 #include <iostream>
 
 // https://learnopengl.com/Getting-started/Hello-Window
-// https://learnopengl.com/Getting-started/Hello-Triangle <---
+// https://learnopengl.com/Getting-started/Hello-Triangle
+//     Hello Rectangle <---
 
 void framebuffer_size_callback(GLFWwindow *window, int width, int height);
 void processInput(GLFWwindow *window);
