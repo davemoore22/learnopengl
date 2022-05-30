@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.1.6)
-project(LearnOpenGL VERSION 0.1.0)
+project(LearnOpenGL VERSION 0.2.0)
 
 set(CMAKE_CXX_STANDARD 20)
 set(CMAKE_THREAD_PREFER_PTHREAD TRUE)
